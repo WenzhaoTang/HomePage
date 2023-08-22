@@ -54,5 +54,5 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 ## Misc.
 <ul>
-  <li>I am a firm advocate for feminist ideals that strike a balance. It is my fervent aspiration to actively participate in endeavors that foster greater diversity and champion equality for all. I believe in the power of nuanced perspectives, and I am driven to create a world where everyone, regardless of gender, is acknowledged and celebrated for their unique contributions.</li>
+  <li>I am a firm advocate for feminist ideals that strike a balance. It is my fervent aspiration to actively participate in endeavors that foster greater diversity and champion equality for all. I believe in the power of nuanced perspectives, and I am driven to create a world where everyone, regardless of gender, is acknowledged and celebrated for their unique contributions.</li> 
 </ul>
