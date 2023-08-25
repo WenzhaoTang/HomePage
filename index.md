@@ -26,7 +26,11 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 tbd
 
 ## Musics
-I have a deep passion for music and have even set up my own cozy music studio. This is where I indulge in singing and mix my own tracks. Dive in to explore my musical journey at <a href="https://music.163.com/#/user/home?id=454367977" target="_blank"> NetEase Cloud Music</a>
+I have a deep passion for music and have even set up my own cozy music studio. This is where I indulge in singing and mix my own tracks. Dive in to explore my musical journey at <a href="https://music.163.com/#/artist?id=34592658" target="_blank"> NetEase Cloud Music</a>!
+[![Description](./assets/img/album-1.jpeg)](https://music.163.com/#/album?id=89273619)
+[![Description](./assets/img/album-2.jpeg)](https://music.163.com/#/album?id=132146650)
+[![Description](./assets/img/album-3.jpeg)](https://music.163.com/#/album?id=152251596)
+
 
 ## Misc.
 <ul>
