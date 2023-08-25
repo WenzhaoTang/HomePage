@@ -14,15 +14,6 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 - **Robot Perception:** 
 
 
-
-<!--{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %} -->
-
-
-
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
 - **First-class Scholarship,** Xidian University, 2018
