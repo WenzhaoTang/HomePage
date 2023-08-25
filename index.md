@@ -30,9 +30,11 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 
 
-
-
-
+## Scholarships and Awards
+<ul>
+  <li> Study Abroad Scholarship, China Scholarship Council, 2019
+  <li> First-class Scholarship, Xidian University, 2018
+<ul>
 
 ## Photographs
 
