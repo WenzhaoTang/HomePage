@@ -27,6 +27,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     <div id="projectDescription" style="display: none;">
         Meanwhile, we calculate the supervised learning depth loss in the original NeuralRecon's loss calculation method and implement it by utilizing a differentiable renderer. For the test time, we introduce a robust photometric consistency loss to optimize the model for better results. Experiments on ScanNet demonstrate improved results compared to NeuralRecon. Further by replacing the training loss with the unsupervised robust photometric consistency loss, unsupervised learning-based 3D reconstruction is possible.
     </div>
+    [Code](https://github.com/WenzhaoTang/online_fusion) | [Pipeline](./assets/img/unsup_recon.png)
 </div>
 
 <!-- JavaScript function -->
@@ -40,11 +41,6 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
         }
     }
 </script>
-
-
-
-[Code](https://github.com/WenzhaoTang/online_fusion) | [Pipeline](./assets/img/unsup_recon.png)
-
 
 
 ## Scholarships and Awards
