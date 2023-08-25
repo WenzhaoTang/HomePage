@@ -14,7 +14,10 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 - **Robot Perception:** 
 
 ## Projects
-tbd
+
+### [Unsupervised 3D Reconstruction From Monocular Videos](https://github.com/WenzhaoTang/online_fusion)
+We tried to improve a learning-based framework named NeuralRecon for real-time dense 3D geometry reconstruction from monocular video. For the supervised learning phase, the model is optimized by differentiating the weights of input features by leveraging the transformer or single attention layer. Meanwhile, we calculate the supervised learning depth loss in the original NeuralRecon's loss calculation method and implement it by utilizing a differentiable renderer. For the test time, we introduce a robust photometric consistency loss to optimize the model for better results. Experiments on ScanNet demonstrate improved results compared to NeuralRecon. Further by replacing the training loss with the unsupervised robust photometric consistency loss, unsupervised learning-based 3D reconstruction is possible.
+![Demo Picture](./assets/img/unsup_recon.png)
 
 
 ## Scholarships and Awards
