@@ -46,5 +46,6 @@ I have a deep passion for music and have even set up my own cozy music studio. T
 
 ## Misc.
 <ul>
-  <li>I passionately support balanced feminist ideals, aim to promote diversity and equality, and believe in valuing everyone's unique contributions regardless of gender.</li> 
+  <li>During my undergrad, I earned a spot among the Campus Top Ten Singers. This experience not only expanded my musical horizons but also introduced me to many talented peers.</li> 
+  <li>I passionately support balanced feminist ideals, aim to promote diversity and equality, and believe in valuing everyone's unique contributions regardless of gender.</li>
 </ul>
