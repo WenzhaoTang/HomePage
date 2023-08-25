@@ -23,6 +23,7 @@ We tried to improve a learning-based framework named NeuralRecon for real-time d
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
 - **First-class Scholarship,** Xidian University, 2018
+- **Merit Student of,** Xidian University, 2018
 
 
 ## Photographs
