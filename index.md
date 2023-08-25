@@ -33,16 +33,15 @@ I have a deep passion for music and have even set up my own cozy music studio. T
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://music.163.com/#/album?id=87625478" target="_blank">
-        <img src="./assets/img/album-1.jpeg" alt="Album 1" style="width: 200px; margin-right: 20px;">
+        <img src="./assets/img/album-1.jpeg" alt="Album 1" style="width: 175px; margin-right: 20px; border: 2px solid white;">
     </a>
     <a href="https://music.163.com/#/album?id=132146650" target="_blank">
-        <img src="./assets/img/album-2.jpeg" alt="Album 2" style="width: 200px; margin-right: 20px;">
+        <img src="./assets/img/album-2.jpeg" alt="Album 2" style="width: 175px; margin-right: 20px; border: 2px solid white;">
     </a>
     <a href="https://music.163.com/#/album?id=152251596" target="_blank">
-        <img src="./assets/img/album-3.jpeg" alt="Album 3" style="width: 200px;">
+        <img src="./assets/img/album-3.jpeg" alt="Album 3" style="width: 175px; border: 2px solid white;">
     </a>
 </div>
-
 
 
 ## Misc.
