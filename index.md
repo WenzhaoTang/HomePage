@@ -15,18 +15,18 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 <!-- Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling. -->
 
-<!-- ## Research Interests -->
+## Research Interests
 <!-- - **Manifold Learning:** positive semi-definite manifolds learning
 - **Machine Learning:** fairness AI, penalization and augmentation methods
 - **Functional Data Analysis:** functional regression, and clustering methods
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations -->
 
 
-<!-- {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/projects.md %}
+{% include_relative _includes/projects.md %}
 
-<!-- {% include_relative _includes/talks.md %} 
+{% include_relative _includes/talks.md %} 
 
 
 
