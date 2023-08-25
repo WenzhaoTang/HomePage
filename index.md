@@ -24,11 +24,9 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 
 
 ## Scholarships and Awards
-- **[Jun. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-<ul>
-  <li> Study Abroad Scholarship, China Scholarship Council, 2019
-  <li> First-class Scholarship, Xidian University, 2018
-<ul>
+- **Study Abroad Scholarship,** China Scholarship Council, 2019
+- **First-class Scholarship,** Xidian University, 2018
+
 
 ## Photographs
 
