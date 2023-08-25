@@ -15,7 +15,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 
 ## Projects
 
-### [Unsupervised 3D Reconstruction From Monocular Videos](https://github.com/WenzhaoTang/online_fusion)
+### [Unsupervised 3D Reconstruction From Monocular Videos]()
 <div>
   <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide Description</button>
   <div id="projectDescription" style="display: none;">
@@ -23,7 +23,8 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
   </div>
 </div>
 
-![Demo Picture](./assets/img/unsup_recon.png)
+[Code](https://github.com/WenzhaoTang/online_fusion) | [Pipeline](./assets/img/unsup_recon.png)
+
 
 
 ## Scholarships and Awards
