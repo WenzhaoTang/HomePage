@@ -13,6 +13,9 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 - **Computer Vision:** 
 - **Robot Perception:** 
 
+## Projects
+tbd
+
 
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
@@ -20,16 +23,26 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 
 
 ## Photographs
-
+tbd
 
 ## Awards
 tbd
 
 ## Musics
 I have a deep passion for music and have even set up my own cozy music studio. This is where I indulge in singing and mix my own tracks. Dive in to explore my musical journey at <a href="https://music.163.com/#/artist?id=34592658" target="_blank"> NetEase Cloud Music</a>!
-[![Description](./assets/img/album-1.jpeg)](https://music.163.com/#/album?id=89273619)
-[![Description](./assets/img/album-2.jpeg)](https://music.163.com/#/album?id=132146650)
-[![Description](./assets/img/album-3.jpeg)](https://music.163.com/#/album?id=152251596)
+
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://music.163.com/#/album?id=87625478" target="_blank">
+        <img src="./assets/img/album-1.jpeg" alt="Album 1" style="width: 100px; margin-right: 20px;">
+    </a>
+    <a href="https://music.163.com/#/album?id=132146650" target="_blank">
+        <img src="./assets/img/album-2.jpeg" alt="Album 2" style="width: 100px; margin-right: 20px;">
+    </a>
+    <a href="https://music.163.com/#/album?id=152251596" target="_blank">
+        <img src="./assets/img/album-3.jpeg" alt="Album 3" style="width: 100px;">
+    </a>
+</div>
+
 
 
 ## Misc.
