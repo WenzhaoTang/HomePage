@@ -25,9 +25,6 @@ tbd
 ## Photographs
 tbd
 
-## Awards
-tbd
-
 ## Musics
 I have a deep passion for music and have even set up my own cozy music studio. This is where I indulge in singing and mix my own tracks. Dive in to explore my musical journey at <a href="https://music.163.com/#/artist?id=34592658" target="_blank"> NetEase Cloud Music</a>!
 
