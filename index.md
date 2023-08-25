@@ -2,17 +2,6 @@
 layout: homepage
 ---
 
-<script>
-  function toggleDescription(elementId) {
-    var x = document.getElementById(elementId);
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-</script>
-
 ## About Me
 I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/robotics-cognition-intelligence-master-of-science-msc" target="_blank"> Robotics, Cognition and Intelligence</a> master student at <a href="https://www.tum.de" target="_blank"> Technical University of Munich</a>'s <a href="https://www.cit.tum.de/cit/startseite/" target="_blank"> School of CIT</a>. I obtained my bachelor degree in Electronic Science and Technology from <a href="https://en.xidian.edu.cn" target="_blank"> Xidian University</a>.
 
@@ -26,7 +15,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 
 ## Projects
 
-### [Unsupervised 3D Reconstruction From Monocular Videos]()
+### Unsupervised 3D Reconstruction From Monocular Videos
 <div>
     <!-- Always visible part -->
     We tried to improve a learning-based framework named NeuralRecon for real-time dense 3D geometry reconstruction from monocular video. For the supervised learning phase, the model is optimized by differentiating the weights of input features by leveraging the transformer or single attention layer.
@@ -39,6 +28,19 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
         Meanwhile, we calculate the supervised learning depth loss in the original NeuralRecon's loss calculation method and implement it by utilizing a differentiable renderer. For the test time, we introduce a robust photometric consistency loss to optimize the model for better results. Experiments on ScanNet demonstrate improved results compared to NeuralRecon. Further by replacing the training loss with the unsupervised robust photometric consistency loss, unsupervised learning-based 3D reconstruction is possible.
     </div>
 </div>
+
+<!-- JavaScript function -->
+<script>
+    function toggleDescription(elementId) {
+        var x = document.getElementById(elementId);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 
 
 [Code](https://github.com/WenzhaoTang/online_fusion) | [Pipeline](./assets/img/unsup_recon.png)
