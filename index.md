@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I'm a <a href="https://www.tum.de/studium/studienangebot/detail/robotics-cognition-intelligence-master-of-science-msc" target="_blank"> Robotics, Cognition and Intelligence</a> master student at <a href="https://www.tum.de" target="_blank"> Technical University of Munich</a>'s <a href="https://www.cit.tum.de/cit/startseite/" target="_blank"> School of CIT</a>. I obtained my bachelor degree in Electronic Science and Technology from <a href="https://en.xidian.edu.cn" target="_blank"> Xidian University</a>
+I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/robotics-cognition-intelligence-master-of-science-msc" target="_blank"> Robotics, Cognition and Intelligence</a> master student at <a href="https://www.tum.de" target="_blank"> Technical University of Munich</a>'s <a href="https://www.cit.tum.de/cit/startseite/" target="_blank"> School of CIT</a>. I obtained my bachelor degree in Electronic Science and Technology from <a href="https://en.xidian.edu.cn" target="_blank"> Xidian University</a>
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 <!-- working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. -->
 
@@ -54,5 +54,5 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 ## Misc.
 <ul>
-  <li>I am a firm advocate for feminist ideals that strike a balance. It is my fervent aspiration to actively participate in endeavors that foster greater diversity and champion equality for all. I believe in the power of nuanced perspectives, and I am driven to create a world where everyone, regardless of gender, is acknowledged and celebrated for their unique contributions.</li> 
+  <li>I passionately support balanced feminist ideals, aim to promote diversity and equality, and believe in valuing everyone's unique contributions regardless of gender.</li> 
 </ul>
