@@ -23,10 +23,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> 
-
-
-{% include_relative _includes/services.md %}
+tbd
 
 ## Musics
 I have a deep passion for music and have even set up my own cozy music studio. This is where I indulge in singing and mix my own tracks. Dive in to explore my musical journey at <a href="https://music.163.com/#/user/home?id=454367977" target="_blank"> NetEase Cloud Music</a>
