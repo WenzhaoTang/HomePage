@@ -56,7 +56,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
         Faced with the limitations of existing datasets, we introduced synthetic datasets to train robust models and evaluated classical template-matching techniques. Concurrently, we investigated various neural network architectures, assessing their performance on the TLESS-Dataset using the Surfemb method. After finalizing the dataset format, we created datasets featuring both non-textured and textured objects and commenced training. We then assessed the models' applicability and accuracy through both qualitative and quantitative evaluations. Moving forward, we plan to refine our models, leveraging ongoing feedback and considering the integration of more advanced architectures to achieve our goals.
     </div>
 </div>
-[Code](https://github.com/WenzhaoTang/3D-Registration) | [Synthetic Dataset](./assets/img/3Dreg.JPG)
+[Code](https://github.com/WenzhaoTang/3D-Registration) | [Synthetic Dataset Demo](./assets/img/3Dreg.JPG)
 <!-- JavaScript function -->
 <script>
     function toggleDescription(elementId) {
