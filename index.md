@@ -21,7 +21,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     We tried to improve a learning-based framework named NeuralRecon for real-time dense 3D geometry reconstruction from monocular video. For the supervised learning phase, the model is optimized by differentiating the weights of input features by leveraging the transformer or single attention layer.
 
     <!-- Toggle button -->
-    <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
+    <button id="toggleButton" onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription" style="display: none;">
@@ -33,13 +33,16 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 <script>
     function toggleDescription(elementId) {
         var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
         if (x.style.display === "none") {
             x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
             x.style.display = "none";
         }
     }
 </script>
+
 
 ### Automatic 3D Registration with Invisible Textures
 <div>
@@ -47,7 +50,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     Aiming to identify point correspondences of rigid 3D objects to a canonical model, particularly for monochromatic or low-texture objects, we enhanced correspondence detection through the application of artificial textures and a layer of fluorescent paint, preserving the object's original texture. 
 
     <!-- Toggle button -->
-    <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
+    <button id="toggleButton" onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription" style="display: none;">
@@ -59,13 +62,16 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 <script>
     function toggleDescription(elementId) {
         var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
         if (x.style.display === "none") {
             x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
             x.style.display = "none";
         }
     }
 </script>
+
 
 ### Stereo Reconstruction
 <div>
@@ -73,7 +79,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     This project outlines a comprehensive pipeline to compare various stereo reconstruction methods, already successfully tested on two datasets. The pipeline starts with camera calibration to eliminate image distortion, followed by key point extraction and matching for image rectification.  
 
     <!-- Toggle button -->
-    <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
+    <button id="toggleButton" onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription" style="display: none;">
@@ -85,13 +91,16 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 <script>
     function toggleDescription(elementId) {
         var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
         if (x.style.display === "none") {
             x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
             x.style.display = "none";
         }
     }
 </script>
+
 
 ### Language Embedded Radiance Fields (LERFs) with Color and Geometry Manipulation
 <div>
@@ -99,7 +108,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     This project aimed to extend the capabilities of Language Embedded Radiance Fields (LERF) to be able to manipulate an object’s geometry and color given a scene by undertaking a comprehensive investigation into backbone replacement and the integration of CLIP-driven manipulation. 
 
     <!-- Toggle button -->
-    <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
+    <button id="toggleButton" onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription" style="display: none;">
@@ -111,8 +120,10 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 <script>
     function toggleDescription(elementId) {
         var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
         if (x.style.display === "none") {
             x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
             x.style.display = "none";
         }
