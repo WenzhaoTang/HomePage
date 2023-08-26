@@ -134,6 +134,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
 - **First-class Scholarship,** Xidian University, 2018
 - **Merit Student of** Xidian University, 2018
+- **Second Prize in Chinese College Mathematics Competitions,** Chinese Mathematical Society, 2018
 
 
 ## Photographs
