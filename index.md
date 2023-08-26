@@ -111,7 +111,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     <button id="toggleButton4" onclick="toggleDescription('projectDescription4', 'toggleButton4')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
-    <div id="projectDescription2" style="display: none;">
+    <div id="projectDescription4" style="display: none;">
         The Nerfacto backbone in LERF was to be replaced with either TensoRF and mip-NeRF to achieve improved rendering results. Evaluation results revealed that mip-NeRF’s rendering time was longer and yielded inferior outcomes on both normal and synthetic data. However, TensoRF showcased remarkable performance on synthetic data, outperforming existing models attempting similar tasks with a PSNR of 34.31 and SSIM of 0.966. Nevertheless, TensoRF exhibited worse performance on real world scene data, highlighting potential limitations. Concurrently, the project successfully implemented CLIP-driven color manipulation, allowing intuitive object editing within the rendered scenes using text prompts. The findings provide valuable insights into backbone selection for LERF and offer exciting possibilities for interactive scene manipulation through natural language. This project lays the groundwork for future research and advancements in text-to-scene generation.
     </div>
 </div>
