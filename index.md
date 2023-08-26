@@ -41,11 +41,36 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     }
 </script>
 
+### Automatic 3D Registration with Invisible Textures
+<div>
+    <!-- Always visible part -->
+    Aiming to identify point correspondences of rigid 3D objects to a canonical model, particularly for monochromatic or low-texture objects, we enhanced correspondence detection through the application of artificial textures and a layer of fluorescent paint, preserving the object's original texture. 
+
+    <!-- Toggle button -->
+    <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
+
+    <!-- Collapsible part -->
+    <div id="projectDescription" style="display: none;">
+        Faced with the limitations of existing datasets, we introduced synthetic datasets to train robust models and evaluated classical template-matching techniques. Concurrently, we investigated various neural network architectures, assessing their performance on the TLESS-Dataset using the Surfemb method. After finalizing the dataset format, we created datasets featuring both non-textured and textured objects and commenced training. We then assessed the models' applicability and accuracy through both qualitative and quantitative evaluations. Moving forward, we plan to refine our models, leveraging ongoing feedback and considering the integration of more advanced architectures to achieve our goals.
+    </div>
+</div>
+[Code](https://github.com/WenzhaoTang/3D-Registration) | [Synthetic Dataset](./assets/img/3Dreg.JPG)
+<!-- JavaScript function -->
+<script>
+    function toggleDescription(elementId) {
+        var x = document.getElementById(elementId);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
 - **First-class Scholarship,** Xidian University, 2018
-- **Merit Student of,** Xidian University, 2018
+- **Merit Student of** Xidian University, 2018
 
 
 ## Photographs
