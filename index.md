@@ -93,32 +93,6 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
     }
 </script>
 
-### Stereo Reconstruction
-<div>
-    <!-- Always visible part -->
-    This project outlines a comprehensive pipeline to compare various stereo reconstruction methods, already successfully tested on two datasets. The pipeline starts with camera calibration to eliminate image distortion, followed by key point extraction and matching for image rectification.  
-
-    <!-- Toggle button -->
-    <button onclick="toggleDescription('projectDescription')" style="cursor: pointer;">Show/Hide More</button>
-
-    <!-- Collapsible part -->
-    <div id="projectDescription" style="display: none;">
-        Dense stereo matching is then employed to calculate disparity maps, which are used to extract depth information for the generation of the final 3D model. Algorithms such as StereoSGBM and StereoBM will be implemented for stereo matching, and post-filtering techniques will be used to enhance the quality of the disparity maps. The depth information is then converted to 3D points, which are integrated into a complete 3D model using techniques like ICP or other improved algorithms. The overarching goal is to compare the effectiveness of different stereo reconstruction methods in order to identify the optimal solution for 3D modeling.
-    </div>
-</div>
-[Code](https://github.com/WenzhaoTang/EditLeRF) | [Pipeline](./assets/img/Stereo.png)
-<!-- JavaScript function -->
-<script>
-    function toggleDescription(elementId) {
-        var x = document.getElementById(elementId);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
-
 ### Language Embedded Radiance Fields (LERFs) with Color and Geometry Manipulation
 <div>
     <!-- Always visible part -->
