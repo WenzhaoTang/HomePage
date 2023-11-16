@@ -10,6 +10,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 ## Projects
 
 ### Unsupervised 3D Reconstruction From Monocular Videos
+
 <div>
     <!-- Always visible part -->
     We tried to improve a learning-based framework named NeuralRecon for real-time dense 3D geometry reconstruction from monocular video. For the supervised learning phase, the model is optimized by differentiating the weights of input features by leveraging the transformer or single attention layer.
