@@ -16,7 +16,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     We tried to improve a learning-based framework named NeuralRecon for real-time dense 3D geometry reconstruction from monocular video. For the supervised learning phase, the model is optimized by differentiating the weights of input features by leveraging the transformer or single attention layer.
 
     <!-- Toggle button -->
-    <button id="toggleButton1" onclick="toggleDescription('projectDescription1', 'toggleButton1')" style="cursor: pointer;">Show More</button>
+    <button id="toggleButton1" onclick="toggleDescription('projectDescription1', 'toggleButton1')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription1" style="display: none;">
@@ -26,20 +26,17 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 [Code](https://github.com/WenzhaoTang/online_fusion) | [Pipeline](./assets/img/unsup_recon.png)
 <!-- JavaScript function -->
 <script>
-    function toggleDescription(elementId, buttonId) {
-        var description = document.getElementById(elementId);
-        var button = document.getElementById(buttonId);
-        
-        if (description.style.display === "none") {
-            description.style.display = "block";
-            button.textContent = "Hide"; // Change button text to "Hide"
+    function toggleDescription(elementId) {
+        var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
-            description.style.display = "none";
-            button.style.display = "none"; // Hide the button
+            x.style.display = "none";
         }
     }
 </script>
-
 
 
 ### Automatic 3D Registration with Invisible Textures
@@ -48,7 +45,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     Aiming to identify point correspondences of rigid 3D objects to a canonical model, particularly for monochromatic or low-texture objects, we enhanced correspondence detection through the application of artificial textures and a layer of fluorescent paint, preserving the object's original texture. 
 
     <!-- Toggle button -->
-    <button id="toggleButton2" onclick="toggleDescription('projectDescription2', 'toggleButton2')" style="cursor: pointer;">Show More</button>
+    <button id="toggleButton2" onclick="toggleDescription('projectDescription2', 'toggleButton2')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription2" style="display: none;">
@@ -58,20 +55,17 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 [Code](https://github.com/WenzhaoTang/3D-Registration) | [Synthetic Dataset Demo](./assets/img/3Dreg.JPG)
 <!-- JavaScript function -->
 <script>
-    function toggleDescription(elementId, buttonId) {
-        var description = document.getElementById(elementId);
-        var button = document.getElementById(buttonId);
-        
-        if (description.style.display === "none") {
-            description.style.display = "block";
-            button.textContent = "Hide"; // Change button text to "Hide"
+    function toggleDescription(elementId) {
+        var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
-            description.style.display = "none";
-            button.style.display = "none"; // Hide the button
+            x.style.display = "none";
         }
     }
 </script>
-
 
 
 ### Stereo Reconstruction
@@ -80,7 +74,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     This project outlines a comprehensive pipeline to compare various stereo reconstruction methods, already successfully tested on two datasets. The pipeline starts with camera calibration to eliminate image distortion, followed by key point extraction and matching for image rectification.  
 
     <!-- Toggle button -->
-    <button id="toggleButton3" onclick="toggleDescription('projectDescription3', 'toggleButton3')" style="cursor: pointer;">Show More</button>
+    <button id="toggleButton3" onclick="toggleDescription('projectDescription3', 'toggleButton3')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription3" style="display: none;">
@@ -90,21 +84,17 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 [Code](https://github.com/WenzhaoTang/Stereo-Reconstruction) | [Pipeline](./assets/img/Stereo.png)
 <!-- JavaScript function -->
 <script>
-    function toggleDescription(elementId, buttonId) {
-        var description = document.getElementById(elementId);
-        var button = document.getElementById(buttonId);
-        
-        if (description.style.display === "none") {
-            description.style.display = "block";
-            button.textContent = "Hide"; // Change button text to "Hide"
+    function toggleDescription(elementId) {
+        var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
-            description.style.display = "none";
-            button.style.display = "none"; // Hide the button
+            x.style.display = "none";
         }
     }
 </script>
-
-
 
 
 ### Language Embedded Radiance Fields (LERFs) with Color and Geometry Manipulation
@@ -113,7 +103,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     This project aimed to extend the capabilities of Language Embedded Radiance Fields (LERF) to be able to manipulate an object’s geometry and color given a scene by undertaking a comprehensive investigation into backbone replacement and the integration of CLIP-driven manipulation. 
 
     <!-- Toggle button -->
-    <button id="toggleButton4" onclick="toggleDescription('projectDescription4', 'toggleButton4')" style="cursor: pointer;">Show More</button>
+    <button id="toggleButton4" onclick="toggleDescription('projectDescription4', 'toggleButton4')" style="cursor: pointer;">Show/Hide More</button>
 
     <!-- Collapsible part -->
     <div id="projectDescription4" style="display: none;">
@@ -123,21 +113,17 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 [Code](https://github.com/WenzhaoTang/EditLeRF) | [Pipeline](./assets/img/editlerf.png)
 <!-- JavaScript function -->
 <script>
-    function toggleDescription(elementId, buttonId) {
-        var description = document.getElementById(elementId);
-        var button = document.getElementById(buttonId);
-        
-        if (description.style.display === "none") {
-            description.style.display = "block";
-            button.textContent = "Hide"; // Change button text to "Hide"
+    function toggleDescription(elementId) {
+        var x = document.getElementById(elementId);
+        var btn = document.getElementById("toggleButton");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+            btn.style.display = "none";  // Hide the button
         } else {
-            description.style.display = "none";
-            button.style.display = "none"; // Hide the button
+            x.style.display = "none";
         }
     }
 </script>
-
-
 
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
