@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/robotics-cognition-intelligence-master-of-science-msc" target="_blank"> Robotics, Cognition and Intelligence</a> master student at <a href="https://www.tum.de" target="_blank"> Technical University of Munich</a>'s <a href="https://www.cit.tum.de/cit/startseite/" target="_blank"> School of CIT</a>. I obtained my bachelor degree in Electronic Science and Technology from <a href="https://en.xidian.edu.cn" target="_blank"> Xidian University</a>. I am now doing my Master's thesis at <a href="https://niessnerlab.org/index.html" target="_blank"> Niessner Lab</a> under the supervision of <a href="https://niessnerlab.org/members/matthias_niessner/profile.html" target="_blank"> Prof. Matthias Nießner</a> and <a href="https://niessnerlab.org/members/justus_thies/profile.html" target="_blank"> MSc. Shivangi Aneja</a>.
+I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/robotics-cognition-intelligence-master-of-science-msc" target="_blank"> Robotics, Cognition and Intelligence</a> master student at <a href="https://www.tum.de" target="_blank"> Technical University of Munich</a>'s <a href="https://www.cit.tum.de/cit/startseite/" target="_blank"> School of CIT</a>. I obtained my bachelor degree in Electronic Science and Technology from <a href="https://en.xidian.edu.cn" target="_blank"> Xidian University</a>. 
+<!--I am now doing my Master's thesis at <a href="https://niessnerlab.org/index.html" target="_blank"> Niessner Lab</a> under the supervision of <a href="https://niessnerlab.org/members/matthias_niessner/profile.html" target="_blank"> Prof. Matthias Nießner</a> and <a href="https://niessnerlab.org/members/justus_thies/profile.html" target="_blank"> MSc. Shivangi Aneja</a>.-->
 
 My research interest lies in the field of 3D Computer Vision which includes 3D Scene Reconstruction, 3D Facial Model Reconstruction and Editing.
 
