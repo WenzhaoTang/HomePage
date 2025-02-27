@@ -113,6 +113,9 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     </div>
 </div>
 [Code](https://github.com/WenzhaoTang/EditLeRF) | [Pipeline](./assets/img/editlerf.png)
+
+-->
+
 <!-- JavaScript function -->
 <script>
     function toggleDescription(elementId) {
@@ -126,7 +129,6 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
         }
     }
 </script>
--->
 
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
