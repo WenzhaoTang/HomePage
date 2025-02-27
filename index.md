@@ -10,7 +10,9 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 
 <!--
 ## Projects
+-->
 
+<!--
 ### Unsupervised 3D Reconstruction From Monocular Videos
 
 <div>
@@ -26,6 +28,8 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     </div>
 </div>
 [Code](https://github.com/WenzhaoTang/online_fusion) | [Pipeline](./assets/img/unsup_recon.png)
+-->
+
 <!-- JavaScript function -->
 <script>
     function toggleDescription(elementId) {
@@ -40,7 +44,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     }
 </script>
 
-
+<!--
 ### Automatic 3D Registration with Invisible Textures
 <div>
     <!-- Always visible part -->
@@ -55,6 +59,8 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     </div>
 </div>
 [Code](https://github.com/WenzhaoTang/3D-Registration) | [Synthetic Dataset Demo](./assets/img/3Dreg.JPG)
+-->
+
 <!-- JavaScript function -->
 <script>
     function toggleDescription(elementId) {
@@ -70,6 +76,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 </script>
 
 
+<!--
 ### Stereo Reconstruction
 <div>
     <!-- Always visible part -->
@@ -84,6 +91,8 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     </div>
 </div>
 [Code](https://github.com/WenzhaoTang/Stereo-Reconstruction) | [Pipeline](./assets/img/Stereo.png)
+-->
+
 <!-- JavaScript function -->
 <script>
     function toggleDescription(elementId) {
@@ -98,7 +107,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     }
 </script>
 
-
+<!--
 ### Language Embedded Radiance Fields (LERFs) with Color and Geometry Manipulation
 <div>
     <!-- Always visible part -->
@@ -113,7 +122,6 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
     </div>
 </div>
 [Code](https://github.com/WenzhaoTang/EditLeRF) | [Pipeline](./assets/img/editlerf.png)
-
 -->
 
 <!-- JavaScript function -->
