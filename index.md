@@ -8,6 +8,7 @@ I'm currently a <a href="https://www.tum.de/studium/studienangebot/detail/roboti
 
 My research interest lies in the field of 3D Computer Vision which includes 3D Scene Reconstruction, 3D Facial Model Reconstruction and Editing.
 
+<!--
 ## Projects
 
 ### Unsupervised 3D Reconstruction From Monocular Videos
@@ -125,6 +126,7 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
         }
     }
 </script>
+-->
 
 ## Scholarships and Awards
 - **Study Abroad Scholarship,** China Scholarship Council, 2019
