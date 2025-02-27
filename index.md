@@ -16,13 +16,10 @@ My research interest lies in the field of 3D Computer Vision which includes 3D S
 ### Unsupervised 3D Reconstruction From Monocular Videos
 
 <div>
-    <!-- Always visible part -->
     We tried to improve a learning-based framework named NeuralRecon for real-time dense 3D geometry reconstruction from monocular video. For the supervised learning phase, the model is optimized by differentiating the weights of input features by leveraging the transformer or single attention layer.
 
-    <!-- Toggle button -->
     <button id="toggleButton1" onclick="toggleDescription('projectDescription1', 'toggleButton1')" style="cursor: pointer;">Show/Hide More</button>
 
-    <!-- Collapsible part -->
     <div id="projectDescription1" style="display: none;">
         Meanwhile, we calculate the supervised learning depth loss in the original NeuralRecon's loss calculation method and implement it by utilizing a differentiable renderer. For the test time, we introduce a robust photometric consistency loss to optimize the model for better results. Experiments on ScanNet demonstrate improved results compared to NeuralRecon. Further by replacing the training loss with the unsupervised robust photometric consistency loss, unsupervised learning-based 3D reconstruction is possible.
     </div>
